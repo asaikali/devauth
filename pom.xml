@@ -24,6 +24,7 @@
 
   <modules>
     <module>devauth-server</module>
+    <module>example-clients</module>
   </modules>
 
   <build>
