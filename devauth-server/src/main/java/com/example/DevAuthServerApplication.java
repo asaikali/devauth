@@ -1,13 +1,12 @@
-package com.example.devauth;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DevauthApplication {
+public class DevAuthServerApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(DevauthApplication.class, args);
+    SpringApplication.run(DevAuthServerApplication.class, args);
   }
-
 }
