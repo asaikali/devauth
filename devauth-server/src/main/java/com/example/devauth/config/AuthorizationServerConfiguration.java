@@ -1,4 +1,4 @@
-package com.example.config;
+package com.example.devauth.config;
 
 import com.nimbusds.jose.jwk.JWKSet;
 import com.nimbusds.jose.jwk.RSAKey;

@@ -1,4 +1,4 @@
-package com.example;
+package com.example.devauth;
 
 import java.time.LocalDateTime;
 import org.springframework.web.bind.annotation.GetMapping;
